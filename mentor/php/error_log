@@ -1,0 +1,4 @@
+[09-Jan-2022 10:36:36 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/dithetog/masterclass.dithetogroup.co.za/php/contact.php on line 89
+[09-Jan-2022 10:39:36 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '{' or '$' in /home/dithetog/masterclass.dithetogroup.co.za/php/contact.php on line 88
+[09-Jan-2022 10:40:13 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '{' or '$' in /home/dithetog/masterclass.dithetogroup.co.za/php/contact.php on line 88
+[09-Jan-2022 10:45:38 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/dithetog/masterclass.dithetogroup.co.za/php/contact.php on line 87

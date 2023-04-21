@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Women In Power Africa - Speaker's Profile</title>
+    <!-- Custom Style -->
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet" />
+     <!-- Color Scheme -->
+     <link href="css/color.css" rel="stylesheet">
+     <style>
+        .pdf-container{
+	max-width: 100%;
+	height: 100vh;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+.pdf-container object{
+	position:absolute;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.pdf-container object .text{
+	margin-bottom: 25px;
+}
+
+.pdf-container object .btn{
+	text-decoration: none;
+}
+     </style>
+</head>
+<body scroll="no">
+    <div class="pdf-container">
+        <object data="./files/speaker-profile.pdf">
+            <p class="text">Oops! Your browser doesn't support PDFs!</p>
+            <p><a href="./files/speaker-profile.pdf" class="btn btn-lg" download="Speaker's Profile">Download Instead</a></p>
+        </object>
+    </div>
+</body>
+</html>
